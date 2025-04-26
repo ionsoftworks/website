@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: ionsoftworks/website
+  branch: main 
+
+media_folder: "images"
+
+collections:
+  - name: "settings"
+    label: "Settings"
+    files:
+      - label: "Site Settings"
+        name: "settings"
+        file: "_config.yml"
+        delete: false
+        fields:
+          - { label: "Title", name: "title", widget: "string", required: true }
+          - { label: "Logo", name: "logo", widget: "image", required: true }
+          - { label: "Description", name: "description", widget: "string", required: true }
+          - { label: "Base URL", name: "baseurl", widget: "string", required: false }
+          - { label: "Site URL", name: "url", widget: "string", required: true }
+  
