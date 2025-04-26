@@ -1,29 +1,29 @@
 [
-   {
-      "title": "Software Development",
-      "description": "Whether you need custom web applications, enterprise systems, or dynamic software tools, our experienced team delivers results that exceed expectations.",
-      "image": {
-         "url": "images/features/noun_branding_1885335.svg",
-         "width": 80,
-         "height": 80
-      }
-   },
-   {
-      "title": "Contact Center",
-      "description": "We specialize in implementing and optimizing cloud-based systems to ensure seamless communication, real-time insights, and streamlined operations.",: null,
-      "image": {
-         "url": "images/features/noun_The Process_1885341.svg",
-         "width": 80,
-         "height": 80
-      }
-   },
-   {
-      "title": "Aws",
-      "description": "Harness the power of AWS cloud computing to transform your business. From cloud migration to infrastructure optimization, we ensure your systems are secure, scalable, and cost-efficient.",: null,
-      "image": {
-         "url": "images/features/noun_3d modeling_1885342.svg",
-         "width": 80,
-         "height": 80
-      }
-   }
+	{
+		"title": "Software Development",
+		"description": "Whether you need custom web applications, enterprise systems, or dynamic software tools, our experienced team delivers results that exceed expectations.",
+		"image": {
+			"url": "images/features/noun_branding_1885335.svg",
+			"width": 80,
+			"height": 80
+		}
+	},
+	{
+		"title": "Contact Center",
+		"description": "We specialize in implementing and optimizing cloud-based systems to ensure seamless communication, real-time insights, and streamlined operations.",
+		"image": {
+			"url": "images/features/noun_The Process_1885341.svg",
+			"width": 80,
+			"height": 80
+		}
+	},
+	{
+		"title": "Aws",
+		"description": "Harness the power of AWS cloud computing to transform your business. From cloud migration to infrastructure optimization, we ensure your systems are secure, scalable, and cost-efficient.",
+		"image": {
+			"url": "images/features/noun_3d modeling_1885342.svg",
+			"width": 80,
+			"height": 80
+		}
+	}
 ]
