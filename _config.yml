@@ -6,7 +6,7 @@ logo:
   mobile: "images/logo/ion-softworks-sq.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/ion-softworks.jpg"
+  desktop: "images/logo/ion-softworks-dark.png"
   desktop_height: "32px"
   desktop_width: "120px"
 
