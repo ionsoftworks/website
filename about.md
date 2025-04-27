@@ -14,26 +14,18 @@ We are dedicated to enabling enterprises to harness the full potential of cloud 
 ## Our Values
 
 At Ion Softworks, our foundation is built on:
-
-Transparency – Clear communication and openness in everything we do.
-
-Trust – Building strong, lasting relationships with our clients and partners.
-
-Reliability – Delivering solutions that businesses can depend on, every time.
-
-Accountability – Taking ownership of every solution we design and implement.
+- Transparency – Clear communication and openness in everything we do.
+- Trust – Building strong, lasting relationships with our clients and partners.
+- Reliability – Delivering solutions that businesses can depend on, every time.
+- Accountability – Taking ownership of every solution we design and implement.
 
 ## What We Do
 
 With over 30 years of experience in scaling enterprise applications, we specialize in:
-
-Enterprise Cloud Architecture – Custom cloud strategies for efficiency, scalability, and security.
-
-AWS Consulting & Optimization – Expertise in AWS services, cost optimization, and best practices.
-
-AI & Automation – AI-driven insights and automation to enhance business operations.
-
-Serverless & Microservices – Modern, flexible architectures for high-performance applications.
+- Enterprise Cloud Architecture – Custom cloud strategies for efficiency, scalability, and security.
+- AWS Consulting & Optimization – Expertise in AWS services, cost optimization, and best practices.
+- AI & Automation – AI-driven insights and automation to enhance business operations.
+- Serverless & Microservices – Modern, flexible architectures for high-performance applications.
 
 ## Why Choose Us?
 

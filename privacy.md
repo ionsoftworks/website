@@ -31,10 +31,8 @@ We do not sell, rent, or share your personal data with third parties, except in 
 ## Your Choices and Rights
 
 You may:
-
-Opt out of cookies via browser settings.
-
-Request access to or deletion of your personal information by contacting us.
+- Opt out of cookies via browser settings.
+- Request access to or deletion of your personal information by contacting us.
 
 ## Security Measures
 
