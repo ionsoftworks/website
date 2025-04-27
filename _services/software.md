@@ -1,6 +1,6 @@
 ---
 title: "Software Development"
-description: "Software development text goes here"
+description: "Create or enhance your applications with robust, scalable, and secure solutions. Whether you need custom web applications, enterprise systems, or complex integrations, our experienced team delivers results that exceed expectations."
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---

@@ -1,7 +1,7 @@
 ---
 title: "AI"
 date: 2018-12-28T15:14:39+10:00
-description: "AI text goes here"
+description: "Unlock the potential of AI to drive smarter decision-making and automation. Our AI solutions include machine learning models, predictive analytics, and intelligent systems designed to elevate your business capabilities and efficiency."
 weight: 4
 ---
 

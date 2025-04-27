@@ -1,6 +1,6 @@
 ---
 title: "AWS"
-description: "AWS text goes here"
+description: "Harness the power of AWS cloud computing to transform your business. From cloud migration to infrastructure optimization, we ensure your systems are secure, scalable, and cost-efficient. Experience the freedom to innovate with tailored AWS solutions."
 date: 2019-02-28T15:15:34+10:00
 weight: 3
 ---
