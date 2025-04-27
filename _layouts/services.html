@@ -22,11 +22,9 @@ bodyClass: "page-services"
 <div class="container">
 	<div class="row">
 		{% for service in site.services %}
-		<div class="col">
-			<div class="service-image"><img alt="{{ service.title }} logo" src="{{ service.imageurl | relative_url }}" width="80" height="80" /></div>
-		</div>
-		<div class="col-md-auto">
-			<div class="service-content col-12 col-md-6">
+		<div class="col-12 col-md-6">
+			<div style="width:80px;"><img alt="{{ service.title }} logo" src="{{ service.imageurl | relative_url }}" width="80" height="80" /></div>
+			<div class="service-content">
 				<h2 class="service-title">
 					<a href="{{ service.url | relative_url }}">{{ service.title }}</a>
 				</h2>
