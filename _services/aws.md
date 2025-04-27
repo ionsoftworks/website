@@ -1,6 +1,7 @@
 ---
 title: "AWS"
 description: "Harness the power of AWS cloud computing to transform your business. From cloud migration to infrastructure optimization, we ensure your systems are secure, scalable, and cost-efficient. Experience the freedom to innovate with tailored AWS solutions."
+imageurl: "images/features/noun_3d modeling_1885342.svg"
 date: 2019-02-28T15:15:34+10:00
 weight: 3
 ---
@@ -9,7 +10,7 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/stock/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 

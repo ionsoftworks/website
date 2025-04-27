@@ -1,5 +1,5 @@
 ---
-title: About Ion Softworks
+title: About Us
 layout: page
 description: About Ion Softworks
 bodyClass: page-about

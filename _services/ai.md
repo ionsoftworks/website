@@ -2,6 +2,7 @@
 title: "AI"
 date: 2018-12-28T15:14:39+10:00
 description: "Unlock the potential of AI to drive smarter decision-making and automation. Our AI solutions include machine learning models, predictive analytics, and intelligent systems designed to elevate your business capabilities and efficiency."
+imageurl: "images/features/noun_3d modeling_1885342.svg"
 weight: 4
 ---
 
@@ -10,7 +11,7 @@ Business advisory is the final tier of the accounting pyramid.
 
 Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/stock/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 

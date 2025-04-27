@@ -1,13 +1,14 @@
 ---
 title: "Software Development"
 description: "Create or enhance your applications with robust, scalable, and secure solutions. Whether you need custom web applications, enterprise systems, or complex integrations, our experienced team delivers results that exceed expectations."
+imageurl: "images/features/noun_3d modeling_1885342.svg"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
 Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/stock/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 

@@ -1,6 +1,7 @@
 ---
 title: "Contact Center"
 description: "Deliver exceptional customer experiences with our state-of-the-art contact center solutions. We specialize in implementing and optimizing cloud-based systems to ensure seamless communication, real-time insights, and streamlined operations."
+imageurl: "images/features/noun_3d modeling_1885342.svg"
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
@@ -10,7 +11,7 @@ vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/stock/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 
