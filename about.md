@@ -1,11 +1,9 @@
 ---
-title: Privacy
+title: About Ion Softworks
 layout: page
-description: Privacy
+description: About Ion Softworks
 bodyClass: page-about
 ---
-
-# About Ion Softworks
 
 At Ion Softworks, we are architects of the cloud—designing, building, and optimizing enterprise cloud solutions that power the future. With deep expertise in AWS cloud technologies, AI-driven solutions, and distributed architectures, we help businesses transform, scale, and innovate with confidence.
 
