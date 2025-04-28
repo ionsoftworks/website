@@ -1,5 +1,5 @@
 ---
-title: Ion Softworks
+title: Welcome
 layout: home
 description: Ion Softworks
 intro_image: "images/stock/network-4143317_1280.jpg"
