@@ -1,7 +1,7 @@
 ---
-title: Welcome
+title: Welcome to Ion Softworks
 layout: home
-description: Ion Softworks
+description: Ion Softworks, LLC
 intro_image: "images/stock/network-4143317_1280.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
